@@ -6,3 +6,5 @@ Git log and git diff seem to be very cumbersome. a better user interface would h
 Although tideous, reverting to see problem changes highlights those changes to help correct unintended errors
 I want to use GIT with the android program course.
 A new repository makes space for commits and generates other housekeeping files.
+Staging area is for files that have changed but not yet committed in the repository
+Use ogf GIT DIFF -- staged will show the changes for the commit.   This will help to make each commit a single change so it can be undone 
