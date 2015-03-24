@@ -1,0 +1,7 @@
+Using FC reduces the stress of version comparison and allows for ease of reverting back to older versions
+Automated version control will allow for review without the necessity of renaming and the problem of opening all the old versions independently.
+Manual Commits may be forgotten until the commit is too large.   Manual commits will minimize the actual number of versions that you need to plow through.   It will take some real trainning to standardize when I commit.
+Becasue in programming multiple files are connected GIT must save all changes whereas with documents and such files are basically independent.
+Git log and git diff seem to be very cumbersome. a better user interface would help not only the use but the understanding of this for people such as myself who are not going to use it every day.
+Although tideous, reverting to see problem changes highlights those changes to help correct unintended errors
+I want to use GIT with the android program course.
