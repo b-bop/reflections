@@ -8,3 +8,7 @@ I want to use GIT with the android program course.
 A new repository makes space for commits and generates other housekeeping files.
 Staging area is for files that have changed but not yet committed in the repository
 Use ogf GIT DIFF -- staged will show the changes for the commit.   This will help to make each commit a single change so it can be undone 
+Branching coud be helpful for adding different modes of operation or for different equipment set ups.
+Diagrams give physical picture to mental designs
+Merging bring a branch back to the main program and resolves the conflicts.   This show the divernt branch as going back to the main program in the chart.
+Automatic merge streamlines the process by showing where the conflicts are with the <<<<< mark in the merging file.
