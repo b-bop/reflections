@@ -12,3 +12,4 @@ Branching coud be helpful for adding different modes of operation or for differe
 Diagrams give physical picture to mental designs
 Merging bring a branch back to the main program and resolves the conflicts.   This show the divernt branch as going back to the main program in the chart.
 Automatic merge streamlines the process by showing where the conflicts are with the <<<<< mark in the merging file.
+Why change a pull manually?   The program might not work and that would lead to confusion.
