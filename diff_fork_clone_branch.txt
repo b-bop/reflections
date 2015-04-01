@@ -1,0 +1,4 @@
+Diff between FOrk clone and branch
+fork make copy of someone elses repository that is on git hub
+clone makes copy of your repository
+branch spits a new direction for a given commit
